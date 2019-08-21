@@ -1,3 +1,4 @@
+# TRANSPORTES TORRES
 # ENVÍO AUTOMÁTICO DE CONFORMES DE ENTREGA
 
 Torres Logística y Transporte (https://ttorres.es/index.php/es/) es proveedor de servicios de Brother Iberia (http://ww.brother.es).
@@ -44,6 +45,3 @@ El documento que se envía desde la cuenta de Torres llega a la cuenta de correo
 
 En BCU se han creado las reglas para que el documento que se identifica mediante el código QR pase a formar parte de la base documental en el apartado adecuado. Este repositorio puede ser accedido por el personal de administración de ventas y logísitca autorizado para ello.
 
-
-
-"# TRANSPORTES_TORRES" 
