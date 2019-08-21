@@ -23,7 +23,7 @@ Como los documentos de entrega pueden tener distintos formatos, se decide incorp
 
 ##### El fichero ImagenEtiqueta.jpg es una muestra documentada de la etiqueta
 
-![Etiqueta](ImagenEtiqueta.jpg)
+![Etiqueta](./EXCEL_PTOUCH/ImagenEtiqueta.jpg)
 
 Este QR se genera automáticamente en una hoja Excel diseñada a tal efecto (BRTorres.xslm). Esta hoja incopora los controles y comandos para que la etiqueta con el QR se imprima en un equipo Brother que tenga la capacidad de usar P-Touch commands
 
