@@ -17,13 +17,10 @@ Ejemplos:
 
 CE-O117680-F190620-C00000562711.pdf
 
-Conforme de entrega 1 al cliente 0000056271 por parte del operador 117680 el d�a 20 de Junio de 2019
+Conforme de entrega 1 al cliente 0000056271 por parte del operador 117680 el día 20 de Junio de 2019
 
 CE-O117680-F190620-C00000562712.pdf
 
-Conforme de entrega 2 al cliente 0000056271 por parte del operador 117680 el d�a 20 de Junio de 2019
+Conforme de entrega 2 al cliente 0000056271 por parte del operador 117680 el día 20 de Junio de 2019
 
-
-Los documentos se ir�n almacenando autom�ticamente en la carpeta compartida del departamento nombrada como "ConformesEntrega". En cada 
-
-B�squeda de los documentos
+Los documentos se irán almacenando automáticamente en la carpeta compartida del departamento nombrada como "ConformesEntrega". 
