@@ -23,4 +23,6 @@ Conforme de entrega 1 al cliente 0000056271 por parte del operador 117680 el dí
 
 Conforme de entrega 2 al cliente 0000056271 por parte del operador 117680 el día 20 de Junio de 2019
 
-Los documentos se irán almacenando automáticamente en la carpeta compartida del departamento nombrada como "ConformesEntrega". 
+Los documentos se irán almacenando automáticamente en la carpeta compartida del departamento nombrada como "ConformesEntrega".
+
+
